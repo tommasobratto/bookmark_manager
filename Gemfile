@@ -7,6 +7,7 @@ gem 'capybara'
 gem 'sinatra'
 gem 'bcrypt-ruby'
 gem 'rack-flash3'
+gem 'sinatra-partial'
 
 group :test do 
   gem 'rspec'
